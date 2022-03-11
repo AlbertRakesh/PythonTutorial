@@ -1,6 +1,2 @@
-Hey Welcome to Python 201
-dllfdls
-xzldslkjd
-djdlsdl
-dsdsdljskldjlsljd
-dsdhsldlsdhhl
+Hey Welcome to Basics of Python
+
